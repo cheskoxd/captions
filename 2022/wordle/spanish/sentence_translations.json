@@ -1,8 +1,8 @@
 [
  {
-  "input": "The game Wurdle has gone pretty viral in the last month or two, and never one to overlook an opportunity for a math lesson, it occurs to me that this game makes for a very good central example in a lesson about information theory, and in particular a topic known as entropy.",
+  "input": "The game Wordle has gone pretty viral in the last month or two, and never one to overlook an opportunity for a math lesson, it occurs to me that this game makes for a very good central example in a lesson about information theory, and in particular a topic known as entropy.",
   "model": "nmt",
-  "translatedText": "El juego Wurdle se ha vuelto bastante viral en los últimos dos meses y, como nunca desperdiciaré la oportunidad de una lección de matemáticas, se me ocurre que este juego es un muy buen ejemplo central en una lección sobre teoría de la información y, en particular, un tema conocido como entropía.",
+  "translatedText": "El juego Wordle se ha vuelto bastante viral en los últimos dos meses y, como nunca desperdiciaré la oportunidad de una lección de matemáticas, se me ocurre que este juego es un muy buen ejemplo central en una lección sobre teoría de la información y, en particular, un tema conocido como entropía.",
   "time_range": [
    0.0,
    12.66
@@ -27,9 +27,9 @@
   ]
  },
  {
-  "input": "First things first, in case you haven't heard of it, what is Wurdle?",
+  "input": "First things first, in case you haven't heard of it, what is Wordle?",
   "model": "nmt",
-  "translatedText": "Lo primero es lo primero, en caso de que no hayas oído hablar de él, ¿qué es Wurdle?",
+  "translatedText": "Lo primero es lo primero, en caso de que no hayas oído hablar de él, ¿qué es Wordle?",
   "time_range": [
    38.7,
    41.64
@@ -38,34 +38,34 @@
  {
   "input": "And to kill two birds with one stone here while we go through the rules of the game, let me also preview where we're going with this, which is to develop a little algorithm that will basically play the game for us.",
   "model": "nmt",
-  "translatedText": "Y para matar dos pájaros de un tiro mientras repasamos las reglas del juego, permítanme también un avance de hacia dónde vamos con esto, que es desarrollar un pequeño algoritmo que básicamente jugará el juego por nosotros.",
+  "translatedText": "Y para matar dos pájaros de un tiro mientras repasamos las reglas del juego, permítanme también mostrar un avance de hacia dónde vamos con esto, que es desarrollar un pequeño algoritmo que básicamente jugará el juego por nosotros.",
   "time_range": [
    42.04,
    51.04
   ]
  },
  {
-  "input": "Though I haven't done today's Wurdle, this is February 4th, and we'll see how the bot does.",
+  "input": "Though I haven't done today's Wordle, this is February 4th, and we'll see how the bot does.",
   "model": "nmt",
-  "translatedText": "Aunque no he hecho el Wurdle de hoy, es el 4 de febrero y veremos cómo le va al robot.",
+  "translatedText": "Aunque no he hecho el Wordle de hoy, es el 4 de febrero y veremos cómo le va al bot.",
   "time_range": [
    51.36,
    55.1
   ]
  },
  {
-  "input": "The goal of Wurdle is to guess a mystery five letter word, and you're given six different chances to guess.",
+  "input": "The goal of Wordle is to guess a mystery five letter word, and you're given six different chances to guess.",
   "model": "nmt",
-  "translatedText": "El objetivo de Wurdle es adivinar una palabra misteriosa de cinco letras y tienes seis oportunidades diferentes para adivinar.",
+  "translatedText": "El objetivo de Wordle es adivinar una palabra misteriosa de cinco letras y te dan seis oportunidades diferentes para adivinar.",
   "time_range": [
    55.48,
    60.34
   ]
  },
  {
-  "input": "For example, my Wurdle bot suggests that I start with the guess crane.",
+  "input": "For example, my Wordle bot suggests that I start with the guess crane.",
   "model": "nmt",
-  "translatedText": "Por ejemplo, mi robot Wurdle me sugiere que empiece con la grúa de adivinanzas.",
+  "translatedText": "Por ejemplo, mi bot de Wordle me sugiere que empiece con la palabra crane",
   "time_range": [
    60.84,
    64.38
@@ -117,9 +117,9 @@
   ]
  },
  {
-  "input": "So let me just go in and tell the Wurdle bot that information.",
+  "input": "So let me just go in and tell the Wordle bot that information.",
   "model": "nmt",
-  "translatedText": "Así que déjame entrar y decirle esa información al robot Wurdle.",
+  "translatedText": "Así que déjame entrar y decirle esa información al bot de Wordle.",
   "time_range": [
    85.2,
    87.34
@@ -128,7 +128,7 @@
  {
   "input": "We started with crane, we got grey, yellow, green, grey, grey.",
   "model": "nmt",
-  "translatedText": "Empezamos con grúa, obtuvimos gris, amarillo, verde, gris, gris.",
+  "translatedText": "Empezamos con crane, obtuvimos gris, amarillo, verde, gris, gris.",
   "time_range": [
    87.34,
    90.32
