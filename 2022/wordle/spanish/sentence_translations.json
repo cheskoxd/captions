@@ -209,7 +209,7 @@
  {
   "input": "That's kind of a toss up between them at this point, so I guess probably just because it's alphabetical it goes with shard.",
   "model": "nmt",
-  "translatedText": "Eso es una especie de volatilidad entre ellos en este momento, así que supongo que probablemente solo porque es alfabético va con el fragmento.",
+  "translatedText": "Eso es una especie de elección al azar entre ellos en este momento, así que supongo que probablemente solo porque es alfabético va con shard",
   "time_range": [
    125.1,
    130.08
@@ -218,7 +218,7 @@
  {
   "input": "Which hooray, is the actual answer.",
   "model": "nmt",
-  "translatedText": "Qué hurra, es la respuesta real.",
+  "translatedText": "La cual hurra, es la respuesta real.",
   "time_range": [
    131.22,
    132.86
@@ -227,16 +227,16 @@
  {
   "input": "So we got it in three.",
   "model": "nmt",
-  "translatedText": "Entonces lo tenemos en tres.",
+  "translatedText": "Entonces lo obtuvimos en tres.",
   "time_range": [
    132.96,
    133.78
   ]
  },
  {
-  "input": "If you're wondering if that's any good, the way I heard one person phrase it is that with Wurdle four is par and three is birdie.",
+  "input": "If you're wondering if that's any good, the way I heard one person phrase it is that with Wordle four is par and three is birdie.",
   "model": "nmt",
-  "translatedText": "Si te preguntas si eso es bueno, la forma en que escuché a una persona decir que con Wurdle cuatro es par y tres es birdie.",
+  "translatedText": "Si te preguntas si eso es bueno, la forma en que escuché a una persona decir que con Wordle cuatro es par y tres es birdie.",
   "time_range": [
    134.6,
    140.36
@@ -270,9 +270,9 @@
   ]
  },
  {
-  "input": "So if you're down for it, what I'd like to do here is just talk through my thought process from the beginning for how I approach the Wurdle bot.",
+  "input": "So if you're down for it, what I'd like to do here is just talk through my thought process from the beginning for how I approach the Wordle bot.",
   "model": "nmt",
-  "translatedText": "Entonces, si estás dispuesto a hacerlo, lo que me gustaría hacer aquí es simplemente hablar sobre mi proceso de pensamiento desde el principio sobre cómo abordo el robot Wurdle.",
+  "translatedText": "Entonces, si estás dispuesto a hacerlo, lo que me gustaría hacer aquí es simplemente hablar sobre mi proceso de pensamiento desde el principio sobre cómo abordo el bot de Wordle.",
   "time_range": [
    150.88,
    155.96
