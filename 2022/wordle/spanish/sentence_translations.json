@@ -146,7 +146,7 @@
  {
   "input": "But its top suggestion for our second pick is shtick.",
   "model": "nmt",
-  "translatedText": "Pero su principal sugerencia para nuestra segunda elección es un truco.",
+  "translatedText": "Pero su principal sugerencia para nuestra segunda elección es la palabra shtick",
   "time_range": [
    95.46,
    98.82
@@ -164,7 +164,7 @@
  {
   "input": "In this case, we try shtick.",
   "model": "nmt",
-  "translatedText": "En este caso, intentamos stick.",
+  "translatedText": "En este caso, intentamos shtick.",
   "time_range": [
    106.2,
    107.44
@@ -182,7 +182,7 @@
  {
   "input": "We hit the S and the H, so we know the first three letters, we know that there's an R.",
   "model": "nmt",
-  "translatedText": "Pulsamos la S y la H, así conocemos las tres primeras letras, sabemos que hay una R.",
+  "translatedText": "Le acertamos a la S y la H, así que conocemos las tres primeras letras y sabemos que hay una R.",
   "time_range": [
    110.26,
    113.98
@@ -191,16 +191,16 @@
  {
   "input": "And so it's going to be like S-H-A something R, or S-H-A R something.",
   "model": "nmt",
-  "translatedText": "Y entonces será como SHA algo R, o SHA R algo.",
+  "translatedText": "Entonces será como SHA algo y R, o SHA R algo.",
   "time_range": [
    113.98,
    118.7
   ]
  },
  {
-  "input": "And it looks like the Wurdle bot knows that it's down to just two possibilities, either shard or sharp.",
+  "input": "And it looks like the Wordle bot knows that it's down to just two possibilities, either shard or sharp.",
   "model": "nmt",
-  "translatedText": "Y parece que el robot Wurdle sabe que solo hay dos posibilidades: fragmentar o filoso.",
+  "translatedText": "Y parece que el robot Wordle sabe que solo hay dos posibilidades: shard o sharp.",
   "time_range": [
    119.62,
    124.24
